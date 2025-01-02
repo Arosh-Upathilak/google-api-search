@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import './Home.css';
 import Navbar from '../navbar/Navbar';
 import Footer from '../footer/Footer';
-import FeaturedProduct from './features/FeaturedProduct';
+import FeaturedProduct from './features/FeaturedProject';
 
 const Home = () => {
     const [query, setQuery] = useState('');

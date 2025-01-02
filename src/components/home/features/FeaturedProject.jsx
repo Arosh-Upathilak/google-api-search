@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import './FeaturedProduct.css';
-import bookCover1 from '../../../assets/1_slidebar.jpeg';
-import bookCover2 from '../../../assets/2_sidebar.jpeg';
+import './FeaturedProject.css';
+import bookCover1 from '../../../assets/1_slidebar.jpg';
+import bookCover2 from '../../../assets/2_sidebar.jpg';
 import bookCover3 from '../../../assets/3_sidebar.jpg';
 import bookCover6 from '../../../assets/preview1.png';
 
